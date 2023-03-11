@@ -1,0 +1,51 @@
+{
+	"id": "6f08c0f2-fc9d-4b67-873f-ae5918f44aa8",
+	"values": [
+		{
+			"key": "url-global",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "cartid",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "admintoken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "cartId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Product_URL",
+			"value": "http://simple-grocery-store-api.online",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "User_URL",
+			"value": "https://petstore.swagger.io",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-03-11T14:18:26.266Z",
+	"_postman_exported_using": "Postman/9.26.8"
+}
